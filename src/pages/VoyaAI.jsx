@@ -50,6 +50,7 @@ export default function VoyaAI() {
       }
     } catch (error) {
       console.error("Error loading user:", error);
+      setIsInitialLoad(false);
     }
   };
 
