@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Voya AI">
+  <defs>
+    <linearGradient id="voya-gradient" x1="10" y1="8" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B7CFA"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#voya-gradient)"/>
+  <path d="M16 17h8l8 28 8-28h8L36.5 49h-9L16 17Z" fill="white"/>
+  <circle cx="47" cy="44" r="4" fill="#CFFAFE"/>
+</svg>

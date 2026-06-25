@@ -1,0 +1,18 @@
+{
+  "name": "Voya AI",
+  "short_name": "Voya AI",
+  "description": "Voya AI personal assistant workspace",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5B7CFA",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
